@@ -25,4 +25,4 @@ Java
 Spring Framework
 
 ## LICENSE
-The project is licensed under the MIT license. Details can be found in  [the LICENSE file] (./#LICENSE)
+The project is licensed under the MIT license. Details can be found in  [the LICENSE file] (./LICENSE)
