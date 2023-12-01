@@ -25,4 +25,4 @@ Java
 Spring Framework
 
 ## LICENSE
-The project is licensed under the MIT license. Details can be found in  [the LICENSE file] (https://github.com/MardeevRuslan/Chat/blob/main/LICENSE)
+The project is licensed under the MIT license. Details can be found in  [the LICENSE file](./LICENSE)
